@@ -41,7 +41,9 @@ export default class Lottie extends React.Component {
     if (this.options.goToAndStop) {
       this.goToAndStop();
     }
-
+    if (this.options.playSegments) {
+      this.playSegments();
+    }
     this.registerEvents(eventListeners);
   }
 

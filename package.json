@@ -1,10 +1,10 @@
 {
-  "name": "react-lottie-segments",
-  "version": "1.4.7",
+  "name": "react-lottie-with-segments",
+  "version": "1.4.8",
   "description": "lottie animation view for React",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SilverFox70/react-lottie-segments"
+    "url": "https://github.com/iamiota/react-lottie-segments"
   },
   "license": "MIT",
   "scripts": {
@@ -59,6 +59,7 @@
   "keywords": [
     "react-lottie",
     "react-lottie-segments",
+    "react-lottie-with-segments",
     "lottie",
     "react",
     "playSegments",
